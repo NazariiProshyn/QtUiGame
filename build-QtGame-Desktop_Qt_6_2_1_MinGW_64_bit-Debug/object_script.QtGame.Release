@@ -1,0 +1,12 @@
+release/cppgame.o
+release/enemy.o
+release/lvls.o
+release/main.o
+release/mainwindow.o
+release/newuserform.o
+release/player.o
+release/qrc_Hero.o
+release/moc_cppgame.o
+release/moc_lvls.o
+release/moc_mainwindow.o
+release/moc_newuserform.o

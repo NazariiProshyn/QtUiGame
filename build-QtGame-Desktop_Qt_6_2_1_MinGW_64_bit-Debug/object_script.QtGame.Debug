@@ -1,0 +1,12 @@
+debug/cppgame.o
+debug/enemy.o
+debug/lvls.o
+debug/main.o
+debug/mainwindow.o
+debug/newuserform.o
+debug/player.o
+debug/qrc_Hero.o
+debug/moc_cppgame.o
+debug/moc_lvls.o
+debug/moc_mainwindow.o
+debug/moc_newuserform.o
