@@ -92,6 +92,10 @@ void CppGame::on_Move_clicked()
     case static_cast<int>(ECMoves::RUN):
         player.Run();
         break;
+    default:
+        QMessageBox::information(this,"Attention",
+                                 "CHOOSE YOU MOVE!");
+        break;
     }
     if(!enemy.isAlive())
     {
